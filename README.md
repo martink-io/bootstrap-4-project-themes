@@ -20,8 +20,7 @@ Photo Sales App
 
 Portfolio Resume App 
 --------------------
-  * Sass - variables & file importing 
-  * Scout
+  * Sass - variables & file importing
   * Grid System
   * List Styling
   * Progress Bar Components
