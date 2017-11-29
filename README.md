@@ -28,6 +28,18 @@ Portfolio Resume App
   * Alerts
   * Responsive Media Queries
 
+Social Network Template
+-----------------------
+  * Nested Grids
+  * Button Groups 
+  * List Styling
+  * Horizontal From - Login
+  * Image Modal
+  * Gallery Plugin
+  * Popups & Tooltips
+  * Responsive Media Queries
+
+
 
 Tech specs
 ----------
