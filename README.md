@@ -39,7 +39,16 @@ Social Network Template
   * Popups & Tooltips
   * Responsive Media Queries
 
-
+Agency Landing Page
+-----------------------
+  * LESS
+  * Singe Page Template
+  * SCroll Down Effect
+  * Font-Awesome Icons
+  * Jumbotron Showcase
+  * Button Classes & Icons
+  * Responsive Media Queries
+  * jQuery/JavaScript
 
 Tech specs
 ----------
