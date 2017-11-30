@@ -1,3 +1,46 @@
 @import 'vendors/_bootstrap.min';
 
 /* Vars */
+
+header {
+  background-image: linear-gradient(#04519b 60%, #044687, #033769);
+  color: #fff;
+  min-height: 100px;
+  padding-top: 25px;
+}
+
+header form {
+  float: right;
+}
+
+header logo {
+  float: left;
+}
+
+.active a {
+  color: #454545;
+}
+
+a {
+  color: #868e96;
+}
+
+.form-group {
+  margin-right: 10px;
+}
+
+.panel {
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+
+.panel-heading {
+  background-image: linear-gradient(#04519b 60%, #044687, #033769);
+  color: #fff;
+  border-radius: 3px 3px 0px 0px;
+  padding-left: 10px;
+}
+
+.panel-body {
+  padding: 10px;
+}
