@@ -6722,6 +6722,10 @@ header {
 header form {
   float: right; }
 
+header form .checkbox {
+  position: absolute;
+  margin-top: 70px; }
+
 header logo {
   float: left; }
 
@@ -6736,7 +6740,8 @@ a {
 
 .panel {
   border: 1px solid #ddd;
-  border-radius: 3px; }
+  border-radius: 3px;
+  margin-top: 20px; }
 
 .panel-heading {
   background-image: linear-gradient(#04519b 60%, #044687, #033769);
@@ -6746,5 +6751,102 @@ a {
 
 .panel-body {
   padding: 10px; }
+
+.bubble {
+  position: relative;
+  width: 580px;
+  min-height: 65px;
+  padding: 15px;
+  background: #fff;
+  border-radius: 10px;
+  border: 1px solid #ccc; }
+
+.bubble:after {
+  content: '';
+  position: absolute;
+  border-style: solid;
+  border-width: 15px 15px 15px 0;
+  border-color: transparent #fff;
+  display: block;
+  width: 0;
+  z-index: 1;
+  margin-top: -15px;
+  left: -15px;
+  top: 50%; }
+
+.bubble:before {
+  content: '';
+  position: absolute;
+  border-style: solid;
+  border-width: 15px 15px 15px 0;
+  border-color: transparent #ccc;
+  display: block;
+  width: 0;
+  z-index: 0;
+  margin-top: -15px;
+  left: -16px;
+  top: 50%; }
+
+.post-actions {
+  margin: 5px; }
+
+.comment-form .form-group {
+  width: 88%; }
+
+.comment-form input[type='text'] {
+  width: 100%; }
+
+.comment-avatar img {
+  width: 40px;
+  margin-right: 5px; }
+
+.comment {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 3px;
+  margin: 5px 0;
+  overflow: auto;
+  width: 100%; }
+
+.thumbnail {
+  border: 1px solid #ddd;
+  display: inline-block;
+  padding: 5px; }
+
+.thumbnail img {
+  width: 100%; }
+
+.likes {
+  padding: 5px; }
+
+.friends li {
+  list-style: none;
+  padding: 5px;
+  display: inline;
+  float: left; }
+
+.friends img {
+  width: 55px; }
+
+.groups img {
+  width: 80px;
+  float: left;
+  margin-right: 15px; }
+
+.group-item {
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  overflow: auto; }
+
+footer {
+  background: #f4f4f4;
+  height: 90px;
+  color: #04519b;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 30px;
+  margin-top: 30px;
+  border-top: 7px solid #04519b; }
 
 /*# sourceMappingURL=style.css.map */
