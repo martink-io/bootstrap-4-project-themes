@@ -1,14 +1,14 @@
-Bootstrap 4 Project Themes
+Bootstrap 3.3.7/4 Project Themes
 ==========================
 
 Bootstrap Project Themese from "Learn Bootstrap By Building Projects" course @ Udemy
 
 Boilerplate
 -----------
-  * Bootstrap 4
+  * Bootstrap 3.3.7
   * Font-awesome icons
 
-Photo Sales App
+Photo Sales App | Bootstrap v4
 ---------------
   * Navigation
   * Jumbotron
@@ -18,7 +18,7 @@ Photo Sales App
   * Contact Form
   * Responsive Media Queries
 
-Portfolio Resume App 
+Portfolio Resume App | Bootstrap v4 
 --------------------
   * Sass - variables & file importing
   * Grid System
@@ -28,7 +28,7 @@ Portfolio Resume App
   * Alerts
   * Responsive Media Queries
 
-Social Network Template
+Social Network Template | Bootstrap v4
 -----------------------
   * Nested Grids
   * Button Groups 
@@ -39,9 +39,9 @@ Social Network Template
   * Popups & Tooltips
   * Responsive Media Queries
 
-Agency Landing Page
+Agency Landing Page | Bootstrap v3.3.7
 -----------------------
-  * LESS
+  * SASS
   * Singe Page Template
   * Scroll Down Effect
   * Font-Awesome Icons
@@ -53,5 +53,5 @@ Agency Landing Page
 Tech specs
 ----------
 
-* Bootstrap version: 4
+* Bootstrap version: 3.3.7, 4
 * Icons: Font Awesome
