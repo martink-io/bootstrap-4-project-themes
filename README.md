@@ -50,6 +50,15 @@ Agency Landing Page | Bootstrap v3.3.7
   * Responsive Media Queries
   * jQuery/JavaScript
 
+Photo Gallery
+-------------
+  * Photo Grid UI
+  * Bootstrap Tab Widget
+  * Bootstrap Image
+  * Carousel
+  * Photo Lightbox jQuery Plugin
+  * Responsive Media Queries
+
 Tech specs
 ----------
 
