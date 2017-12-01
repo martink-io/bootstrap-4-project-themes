@@ -43,7 +43,7 @@ Agency Landing Page
 -----------------------
   * LESS
   * Singe Page Template
-  * SCroll Down Effect
+  * Scroll Down Effect
   * Font-Awesome Icons
   * Jumbotron Showcase
   * Button Classes & Icons
