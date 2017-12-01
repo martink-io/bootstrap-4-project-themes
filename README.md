@@ -1,7 +1,7 @@
 Bootstrap 3.3.7/4 Project Themes
 ================================
 
-Bootstrap Project Themese from "Learn Bootstrap By Building Projects" course @ Udemy
+Bootstrap Project Themes from "Learn Bootstrap By Building Projects" course @ Udemy
 
 Boilerplate
 -----------
