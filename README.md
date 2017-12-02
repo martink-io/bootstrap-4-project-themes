@@ -50,8 +50,8 @@ Agency Landing Page | Bootstrap v3.3.7
   * Responsive Media Queries
   * jQuery/JavaScript
 
-Photo Gallery
--------------
+Photo Gallery | PhotoShak | Bootstrap v.3.3.7
+---------------------------------------------
   * Photo Grid UI
   * Bootstrap Tab Widget
   * Bootstrap Image
