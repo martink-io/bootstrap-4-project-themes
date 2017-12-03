@@ -73,6 +73,13 @@ CMS Admin Template | Bootstrap v.3.3.7
   * Breadcrumbs
   * Button Groups
 
+Web Hosting Company Website | Bootstrap v.3.3.7
+-----------------------------------------------
+  * Bootswatch UI Tools
+  * Custom Content Carousel
+  * Stacked Icons with Font-Awesome Icons
+  * Login Modal
+  * Price Tables
 
 
 Tech specs
