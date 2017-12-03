@@ -5644,4 +5644,12 @@ body#login h2 {
   border-top-left-radius: 0;
   border-top-right-radius: 0; }
 
+footer {
+  height: 60px;
+  margin-top: 30px;
+  padding-top: 20px;
+  text-align: center;
+  background-color: #1f87c2;
+  color: white; }
+
 /*# sourceMappingURL=style.css.map */
