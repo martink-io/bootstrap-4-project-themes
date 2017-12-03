@@ -59,6 +59,22 @@ Photo Gallery | PhotoShak | Bootstrap v.3.3.7
   * Photo Lightbox jQuery Plugin
   * Responsive Media Queries
 
+CMS Admin Template | Bootstrap v.3.3.7
+--------------------------------------
+  * Bootstrap Table Classes
+  * Bootswatch Navbar
+  * Login Page
+  * Pagination
+  * Table Sorter
+  * Font-Awesome Icons
+  * Post Forms
+  * Search Filter Plugin
+  * Dropdown Menus
+  * Breadcrumbs
+  * Button Groups
+
+
+
 Tech specs
 ----------
 
