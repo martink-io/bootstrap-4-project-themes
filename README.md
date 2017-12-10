@@ -81,7 +81,7 @@ Web Hosting Company Website | Bootstrap v3.3.7
   * Login Modal
   * Price Tables
 
-  Web Hosting Company Website | Bootstrap v3.3.7
+Ecommerce Template | Bootstrap v3.3.7
 ----------------------------------------------
   * Custom Header
   * Product Grid
