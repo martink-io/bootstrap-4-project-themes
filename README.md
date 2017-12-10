@@ -8,8 +8,8 @@ Boilerplate
   * Bootstrap 3.3.7
   * Font-awesome icons
 
-Photo Sales App | Bootstrap v4
-------------------------------
+[1] Photo Sales App | Bootstrap v4
+----------------------------------
   * Navigation
   * Jumbotron
   * Accordion Menu
@@ -18,8 +18,8 @@ Photo Sales App | Bootstrap v4
   * Contact Form
   * Responsive Media Queries
 
-Portfolio Resume App | Bootstrap v4 
------------------------------------
+[2] Portfolio Resume App | Bootstrap v4 
+---------------------------------------
   * Sass - variables & file importing
   * Grid System
   * List Styling
@@ -28,8 +28,8 @@ Portfolio Resume App | Bootstrap v4
   * Alerts
   * Responsive Media Queries
 
-Social Network Template | Bootstrap v4
---------------------------------------
+[3] Social Network Template | Bootstrap v4
+------------------------------------------
   * Nested Grids
   * Button Groups 
   * List Styling
@@ -39,8 +39,8 @@ Social Network Template | Bootstrap v4
   * Popups & Tooltips
   * Responsive Media Queries
 
-Agency Landing Page | Bootstrap v3.3.7
---------------------------------------
+[4] Agency Landing Page | Bootstrap v3.3.7
+------------------------------------------
   * SASS
   * Singe Page Template
   * Scroll Down Effect
@@ -50,8 +50,8 @@ Agency Landing Page | Bootstrap v3.3.7
   * Responsive Media Queries
   * jQuery/JavaScript
 
-Photo Gallery | PhotoShak | Bootstrap v3.3.7
----------------------------------------------
+[5] Photo Gallery | PhotoShak | Bootstrap v3.3.7
+------------------------------------------------
   * Photo Grid UI
   * Bootstrap Tab Widget
   * Bootstrap Image
@@ -59,8 +59,8 @@ Photo Gallery | PhotoShak | Bootstrap v3.3.7
   * Photo Lightbox jQuery Plugin
   * Responsive Media Queries
 
-CMS Admin Template | Bootstrap v3.3.7
--------------------------------------
+[6] CMS Admin Template | Bootstrap v3.3.7
+-----------------------------------------
   * Bootstrap Table Classes
   * Bootswatch Navbar
   * Login Page
@@ -73,21 +73,27 @@ CMS Admin Template | Bootstrap v3.3.7
   * Breadcrumbs
   * Button Groups
 
-Web Hosting Company Website | Bootstrap v3.3.7
-----------------------------------------------
+[7] Web Hosting Company Website | Bootstrap v3.3.7
+--------------------------------------------------
   * Bootswatch UI Tools
   * Custom Content Carousel
   * Stacked Icons with Font-Awesome Icons
   * Login Modal
   * Price Tables
 
-Ecommerce Template | Bootstrap v3.3.7
-----------------------------------------------
-  * Custom Header
+[8] Ecommerce Template | Bootstrap v3.3.7
+-----------------------------------------
   * Product Grid
   * Bootstrap Tab Widget customized in depth
   * Product Pages
   * Accordion Menu
+
+[9] Business Theme | Bootstrap v3.3.7
+-------------------------------------
+  * Animate.css
+  * Jumbotron with Animation
+  * WOW scrolling animation script
+  * Mobile Optimization
 
 Tech specs
 ----------
