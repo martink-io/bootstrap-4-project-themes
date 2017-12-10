@@ -81,6 +81,13 @@ Web Hosting Company Website | Bootstrap v3.3.7
   * Login Modal
   * Price Tables
 
+  Web Hosting Company Website | Bootstrap v3.3.7
+----------------------------------------------
+  * Custom Header
+  * Product Grid
+  * Bootstrap Tab Widget customized in depth
+  * Product Pages
+  * Accordion Menu
 
 Tech specs
 ----------
