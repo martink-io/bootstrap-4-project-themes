@@ -5656,6 +5656,9 @@ body {
 section {
   margin: 20px 0 30px 0; }
 
+.feature-list {
+  list-style: none; }
+
 .well {
   overflow: auto; }
 

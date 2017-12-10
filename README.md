@@ -50,7 +50,7 @@ Agency Landing Page | Bootstrap v3.3.7
   * Responsive Media Queries
   * jQuery/JavaScript
 
-Photo Gallery | PhotoShak | Bootstrap v.3.3.7
+Photo Gallery | PhotoShak | Bootstrap v3.3.7
 ---------------------------------------------
   * Photo Grid UI
   * Bootstrap Tab Widget
@@ -59,8 +59,8 @@ Photo Gallery | PhotoShak | Bootstrap v.3.3.7
   * Photo Lightbox jQuery Plugin
   * Responsive Media Queries
 
-CMS Admin Template | Bootstrap v.3.3.7
---------------------------------------
+CMS Admin Template | Bootstrap v3.3.7
+-------------------------------------
   * Bootstrap Table Classes
   * Bootswatch Navbar
   * Login Page
@@ -73,8 +73,8 @@ CMS Admin Template | Bootstrap v.3.3.7
   * Breadcrumbs
   * Button Groups
 
-Web Hosting Company Website | Bootstrap v.3.3.7
------------------------------------------------
+Web Hosting Company Website | Bootstrap v3.3.7
+----------------------------------------------
   * Bootswatch UI Tools
   * Custom Content Carousel
   * Stacked Icons with Font-Awesome Icons
