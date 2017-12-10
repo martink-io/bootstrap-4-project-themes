@@ -6200,6 +6200,14 @@ h1, h2, h3 {
   color: #fff;
   padding: 60px 0; }
 
+.section-title {
+  padding: 10px;
+  background: #0383c0;
+  color: #fff; }
+
+.section-title small {
+  color: #ccc !important; }
+
 .slogan {
   text-align: center; }
 
