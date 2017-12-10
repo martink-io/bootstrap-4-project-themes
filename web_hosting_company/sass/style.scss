@@ -1,7 +1,20 @@
 @import 'vendors/bootstrap';
 
+body {
+  color: #fff;
+  font-size: 16px;
+}
+
 section {
-  margin: 30px 0 50px 0;
+  margin: 20px 0 30px 0;
+}
+
+.well {
+  overflow: auto;
+}
+
+.jumbotron {
+  background: #bf5a16;
 }
 
 .navbar {
@@ -58,3 +71,4 @@ section {
 .price strong {
   font-size: 32px;
 }
+
