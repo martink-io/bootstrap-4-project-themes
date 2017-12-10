@@ -6179,7 +6179,8 @@ button.close {
 /*# sourceMappingURL=bootstrap.css.map */
 .navbar {
   background: #0383c0 url(../img/navbar.png) repeat-x;
-  border: 1px solid #ccc; }
+  border: 1px solid #ccc;
+  margin-top: 30px; }
 
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
@@ -6188,5 +6189,27 @@ button.close {
   background: none;
   color: #0383c0 !important;
   font-weight: bold; }
+
+.logo {
+  width: 100%;
+  margin: 40px 0 0 0;
+  font-family: 'Oswald', sans-serif; }
+
+.primary {
+  color: #0383c0; }
+
+.subtext {
+  color: #666;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 10px 0 0 40px; }
+
+header form {
+  float: right;
+  margin-top: 30px;
+  background: #0383c0;
+  padding: 15px;
+  color: #fff;
+  border-radius: 5px; }
 
 /*# sourceMappingURL=style.css.map */
