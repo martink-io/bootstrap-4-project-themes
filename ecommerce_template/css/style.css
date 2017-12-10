@@ -6177,6 +6177,12 @@ button.close {
   .hidden-print {
     display: none !important; } }
 /*# sourceMappingURL=bootstrap.css.map */
+/* Blue*/
+/* Red */
+/*$primary: #C83C27; */
+a {
+  color: #0383c0; }
+
 .navbar {
   background: #0383c0 url(../img/navbar.png) repeat-x;
   border: 1px solid #ccc;
@@ -6268,6 +6274,16 @@ header form {
   float: left;
   width: 40%;
   margin-left: 40px; }
+
+.main-img {
+  width: 100%; }
+
+footer {
+  text-align: center;
+  height: 60px;
+  background: #f4f4f4;
+  padding-top: 20px;
+  margin-top: 50px; }
 
 @media (max-width: 600px) {
   .tab-content {

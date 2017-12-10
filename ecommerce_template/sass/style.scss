@@ -1,7 +1,13 @@
 @import 'vendors/bootstrap';
 
-$primary: #0383c0;
+/* Blue*/
+$primary: #0383c0; 
+/* Red */
+/*$primary: #C83C27; */
 
+a {
+  color: $primary;
+}
 
 .navbar {
   background: $primary url(../img/navbar.png) repeat-x;
@@ -110,6 +116,18 @@ header form {
   float: left;
   width: 40%;
   margin-left: 40px;
+}
+
+.main-img {
+  width: 100%;
+}
+
+footer {
+  text-align: center;
+  height: 60px;
+  background: #f4f4f4;
+  padding-top: 20px;
+  margin-top: 50px;
 }
 
 @media(max-width: 600px) {
