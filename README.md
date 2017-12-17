@@ -95,6 +95,13 @@ Boilerplate
   * WOW scrolling animation script
   * Mobile Optimization
 
+[10] Blog Website | Bootstrap v3.3.7
+-------------------------------------
+  * Custom Carousel with Thumbnails
+  * Contact Form with Map
+  * Mobile Optimization
+  
+
 Tech specs
 ----------
 
